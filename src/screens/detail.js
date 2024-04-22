@@ -12,7 +12,7 @@ import {
     ImageBackground,
     Image
 } from 'react-native';
-import Icon from 'react-native-vector-icons/FontAwesome';
+// import Icon from 'react-native-vector-icons/FontAwesome';
 
 const Detail = ({ route }) => {
     const { item } = route?.params
